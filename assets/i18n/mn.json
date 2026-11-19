@@ -350,5 +350,13 @@
 	"MSG_TIME_UP": "Цаг дууслаа!",
 	"MSG_DAILY_EXPIRED": "Шинэ өдөр эхэлсэн тул дуусаагүй сорилтыг хожигдолд тооцов.",
 	"ANNOUNCE_CHALLENGE_STARTED": "{{name}} сорилт эхэллээ.",
-	"LOADING": "Ачаалж байна…"
+	"LOADING": "Ачаалж байна…",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }

@@ -349,5 +349,13 @@
 	"DAILY_BEST_SCORES": "Beste resultater",
 	"DAILY_BEST_SCORES_EMPTY": "Spill en utfordring for ditt første resultat.",
 	"DAILY_NEW_BEST": "Ny rekord",
-	"DAILY_NOT_COMPLETED_PAST": "Ikke fullført"
+	"DAILY_NOT_COMPLETED_PAST": "Ikke fullført",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }

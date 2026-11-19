@@ -350,5 +350,13 @@
 	"DAILY_BEST_SCORES": "Mejores puntuaciones",
 	"DAILY_BEST_SCORES_EMPTY": "Juega un desafío para lograr tu primera puntuación.",
 	"DAILY_NEW_BEST": "Nuevo récord",
-	"DAILY_NOT_COMPLETED_PAST": "Sin completar"
+	"DAILY_NOT_COMPLETED_PAST": "Sin completar",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }

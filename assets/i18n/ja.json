@@ -348,5 +348,13 @@
 	"DAILY_BEST_SCORES": "ベストスコア",
 	"DAILY_BEST_SCORES_EMPTY": "チャレンジをプレイして最初のスコアを出しましょう。",
 	"DAILY_NEW_BEST": "自己ベスト更新",
-	"DAILY_NOT_COMPLETED_PAST": "未達成"
+	"DAILY_NOT_COMPLETED_PAST": "未達成",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }

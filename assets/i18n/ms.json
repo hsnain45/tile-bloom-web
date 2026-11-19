@@ -348,5 +348,13 @@
 	"DAILY_BEST_SCORES": "Skor terbaik",
 	"DAILY_BEST_SCORES_EMPTY": "Main satu cabaran untuk skor pertama anda.",
 	"DAILY_NEW_BEST": "Rekod baharu",
-	"DAILY_NOT_COMPLETED_PAST": "Tidak selesai"
+	"DAILY_NOT_COMPLETED_PAST": "Tidak selesai",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }

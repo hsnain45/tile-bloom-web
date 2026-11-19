@@ -348,5 +348,13 @@
 	"DAILY_BEST_SCORES": "بهترین امتیازها",
 	"DAILY_BEST_SCORES_EMPTY": "یک چالش بازی کنید تا اولین امتیاز خود را ثبت کنید.",
 	"DAILY_NEW_BEST": "رکورد جدید",
-	"DAILY_NOT_COMPLETED_PAST": "کامل نشد"
+	"DAILY_NOT_COMPLETED_PAST": "کامل نشد",
+	"LEVELS": "Levels",
+	"DAILY_FLOWER": "Today's Flower",
+	"DAILY_FLOWER_PLAY": "Play today's garden board",
+	"DAILY_FLOWER_DONE": "Done today — come back tomorrow",
+	"LEVEL_PREV": "Previous levels",
+	"LEVEL_NEXT": "Next levels",
+	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
+	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started."
 }
