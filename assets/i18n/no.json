@@ -359,7 +359,7 @@
 	"ANNOUNCE_LEVEL_STARTED": "Level {{n}} started.",
 	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started.",
 	"GARDEN": "Garden",
-	"GARDEN_POINTS": "Phool points",
+	"GARDEN_POINTS": "Flower points",
 	"GARDEN_NEXT": "Next decoration: {{name}} in {{points}} more points",
 	"GARDEN_EMPTY": "Your garden is empty. Win a level and the first flower will bloom here.",
 	"GARDEN_DECOR_path": "Garden path",
@@ -394,5 +394,7 @@
 	"HINT_BLOCKED": "That tile is blocked - free it first.",
 	"COACH_TRAY": "Tiles collect here - three of a kind clear away.",
 	"COACH_TRAY_DANGER": "Careful - one tray slot left! Undo can take a tile back.",
-	"HOW_TRIPLE": "Tile Bloom Levels: tap tiles into the tray - three of a kind clear, the tray holds only 7, and every win grows your garden. The classic pair rules below apply to free games."
+	"HOW_TRIPLE": "Tile Bloom Levels: tap tiles into the tray - three of a kind clear, the tray holds only 7, and every win grows your garden. The classic pair rules below apply to free games.",
+	"ANNOUNCE_COLLECTED": "Collected. {{remaining}} tiles remaining.",
+	"ANNOUNCE_COLLECTED_ONE": "Collected. {{remaining}} tile remaining."
 }
