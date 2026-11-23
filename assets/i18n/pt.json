@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pares correspondentes destacados.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} par correspondente destacado.",
 	"ANNOUNCE_HINT_NONE": "Nenhum par correspondente disponível.",
+	"ANNOUNCE_HINT_TRIPLE": "Um trio correspondente foi destacado.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Não há jogadas disponíveis.",
 	"ANNOUNCE_SHUFFLE": "Peças embaralhadas.",
 	"ANNOUNCE_UNDO": "Último movimento desfeito.",
 	"ANNOUNCE_GAME_WON": "Parabéns, você limpou o tabuleiro!",

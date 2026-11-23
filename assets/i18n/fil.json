@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Nagtugma. {{remaining}} na bato ang natitira.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} magkatugmang pares ang na-highlight.",
 	"ANNOUNCE_HINT_NONE": "Walang magkatugmang pares na available.",
+	"ANNOUNCE_HINT_TRIPLE": "Na-highlight ang isang magkatugmang trio.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Walang available na galaw.",
 	"ANNOUNCE_SHUFFLE": "Mga bato ay hinaluan.",
 	"ANNOUNCE_UNDO": "Huling galaw ay binawi.",
 	"ANNOUNCE_GAME_WON": "Binabati kita, nilinis mo ang board!",

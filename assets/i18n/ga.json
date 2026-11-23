@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "Aibhsíodh {{count}} péire meaitseála.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "Aibhsíodh {{count}} péire meaitseála amháin.",
 	"ANNOUNCE_HINT_NONE": "Níl aon phéirí meaitseála ar fáil.",
+	"ANNOUNCE_HINT_TRIPLE": "Tá tríréad meaitseála aibhsithe.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Níl aon ghluaiseacht ar fáil.",
 	"ANNOUNCE_SHUFFLE": "Meascadh na tíleanna.",
 	"ANNOUNCE_UNDO": "Cealaíodh an gluaiseacht dheireanach.",
 	"ANNOUNCE_GAME_WON": "Comhghairdeas, ghlan tú an bord!",

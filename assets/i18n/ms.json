@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Sepadan. {{remaining}} jubin berbaki.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pasangan sepadan diserlahkan.",
 	"ANNOUNCE_HINT_NONE": "Tiada pasangan sepadan yang tersedia.",
+	"ANNOUNCE_HINT_TRIPLE": "Tiga yang sepadan telah diserlahkan.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Tiada pergerakan tersedia.",
 	"ANNOUNCE_SHUFFLE": "Jubin dikocok.",
 	"ANNOUNCE_UNDO": "Langkah terakhir dibatalkan.",
 	"ANNOUNCE_GAME_WON": "Tahniah, anda berjaya membersihkan papan!",

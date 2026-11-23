@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Eşleşti. {{remaining}} taş kaldı.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} eşleşen çift vurgulandı.",
 	"ANNOUNCE_HINT_NONE": "Kullanılabilir eşleşen çift yok.",
+	"ANNOUNCE_HINT_TRIPLE": "Eşleşen bir üçlü vurgulandı.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Kullanılabilir hamle yok.",
 	"ANNOUNCE_SHUFFLE": "Taşlar karıştırıldı.",
 	"ANNOUNCE_UNDO": "Son hamle geri alındı.",
 	"ANNOUNCE_GAME_WON": "Tebrikler, tahtayı temizlediniz!",

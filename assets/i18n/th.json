@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "จับคู่แล้ว. เหลือไพ่ {{remaining}} ใบ.",
 	"ANNOUNCE_HINT_PAIRS": "เน้น {{count}} คู่ที่ตรงกัน.",
 	"ANNOUNCE_HINT_NONE": "ไม่มีคู่ที่ตรงกันที่ใช้ได้.",
+	"ANNOUNCE_HINT_TRIPLE": "ไฮไลต์สามใบที่ตรงกันแล้ว",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "ไม่มีการเดินที่ทำได้",
 	"ANNOUNCE_SHUFFLE": "ไพ่ถูกสับแล้ว.",
 	"ANNOUNCE_UNDO": "ย้อนกลับการเล่นล่าสุดแล้ว.",
 	"ANNOUNCE_GAME_WON": "ยินดีด้วย คุณล้างกระดานได้สำเร็จ!",

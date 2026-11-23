@@ -217,6 +217,8 @@
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} pereche potrivită evidențiată.",
 	"ANNOUNCE_HINT_PAIRS_FEW": "{{count}} perechi potrivite evidențiate.",
 	"ANNOUNCE_HINT_NONE": "Nu există perechi potrivite disponibile.",
+	"ANNOUNCE_HINT_TRIPLE": "A fost evidențiat un trio potrivit.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Nu există mutări disponibile.",
 	"ANNOUNCE_SHUFFLE": "Pietre amestecate.",
 	"ANNOUNCE_UNDO": "Ultima mutare anulată.",
 	"ANNOUNCE_GAME_WON": "Felicitări, ai curățat tabla!",

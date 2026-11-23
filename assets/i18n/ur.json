@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} ملتی جوڑیاں نمایاں کی گئیں۔",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} ملتی جوڑی نمایاں کی گئی۔",
 	"ANNOUNCE_HINT_NONE": "کوئی ملتی جوڑی دستیاب نہیں۔",
+	"ANNOUNCE_HINT_TRIPLE": "ایک ملتا جلتا تین کا سیٹ نمایاں کر دیا گیا ہے۔",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "کوئی چال دستیاب نہیں۔",
 	"ANNOUNCE_SHUFFLE": "ٹائلیں خلط ملط کی گئیں۔",
 	"ANNOUNCE_UNDO": "آخری چال واپس کی گئی۔",
 	"ANNOUNCE_GAME_WON": "مبارک ہو، آپ نے بورڈ صاف کر دیا!",

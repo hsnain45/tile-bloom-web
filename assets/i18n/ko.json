@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "일치. 타일 {{remaining}}개 남음.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}쌍의 일치하는 타일이 강조 표시됨.",
 	"ANNOUNCE_HINT_NONE": "사용 가능한 일치하는 쌍이 없습니다.",
+	"ANNOUNCE_HINT_TRIPLE": "일치하는 3장이 강조 표시되었습니다.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "가능한 수가 없습니다.",
 	"ANNOUNCE_SHUFFLE": "타일이 섞였습니다.",
 	"ANNOUNCE_UNDO": "마지막 수가 취소되었습니다.",
 	"ANNOUNCE_GAME_WON": "축하합니다, 보드를 클리어했습니다!",

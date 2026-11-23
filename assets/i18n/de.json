@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} passende Paare hervorgehoben.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} passendes Paar hervorgehoben.",
 	"ANNOUNCE_HINT_NONE": "Keine passenden Paare verfügbar.",
+	"ANNOUNCE_HINT_TRIPLE": "Ein passendes Trio wurde hervorgehoben.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Keine Züge verfügbar.",
 	"ANNOUNCE_SHUFFLE": "Steine gemischt.",
 	"ANNOUNCE_UNDO": "Letzten Zug zurückgenommen.",
 	"ANNOUNCE_GAME_WON": "Gratulation, du hast das Spielfeld geleert!",

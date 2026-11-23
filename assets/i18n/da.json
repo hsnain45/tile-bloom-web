@@ -214,6 +214,8 @@
 	"ANNOUNCE_MATCHED_ONE": "Matchet. {{remaining}} brik tilbage.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matchende par fremhævet.",
 	"ANNOUNCE_HINT_NONE": "Ingen matchende par tilgængelige.",
+	"ANNOUNCE_HINT_TRIPLE": "En matchende trio er fremhævet.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Ingen træk tilgængelige.",
 	"ANNOUNCE_SHUFFLE": "Brikker blandet.",
 	"ANNOUNCE_UNDO": "Sidste træk fortrudt.",
 	"ANNOUNCE_GAME_WON": "Tillykke, du ryddede brættet!",

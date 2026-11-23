@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "منطبق شد. {{remaining}} کاشی باقی مانده.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} جفت منطبق برجسته شد.",
 	"ANNOUNCE_HINT_NONE": "هیچ جفت منطبقی موجود نیست.",
+	"ANNOUNCE_HINT_TRIPLE": "یک سه‌تایی همسان برجسته شد.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "هیچ حرکتی در دسترس نیست.",
 	"ANNOUNCE_SHUFFLE": "کاشی‌ها به‌هم‌ریخته شدند.",
 	"ANNOUNCE_UNDO": "آخرین حرکت لغو شد.",
 	"ANNOUNCE_GAME_WON": "تبریک، تخته را پاک کردید!",

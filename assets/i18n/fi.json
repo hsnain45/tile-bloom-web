@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} vastaavaa paria korostettu.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} vastaava pari korostettu.",
 	"ANNOUNCE_HINT_NONE": "Ei vastaavia pareja saatavilla.",
+	"ANNOUNCE_HINT_TRIPLE": "Vastaava kolmikko on korostettu.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Ei siirtoja saatavilla.",
 	"ANNOUNCE_SHUFFLE": "Kivet sekoitettu.",
 	"ANNOUNCE_UNDO": "Viimeisin siirto kumottu.",
 	"ANNOUNCE_GAME_WON": "Onnittelut, tyhjensit pelilaudan!",

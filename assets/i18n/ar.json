@@ -219,6 +219,8 @@
 	"ANNOUNCE_HINT_PAIRS_TWO": "تم تمييز زوجين متطابقين.",
 	"ANNOUNCE_HINT_PAIRS_FEW": "تم تمييز {{count}} أزواج متطابقة.",
 	"ANNOUNCE_HINT_NONE": "لا توجد أزواج متطابقة متاحة.",
+	"ANNOUNCE_HINT_TRIPLE": "تم تمييز ثلاثي متطابق.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "لا توجد حركات متاحة.",
 	"ANNOUNCE_SHUFFLE": "تم خلط البلاطات.",
 	"ANNOUNCE_UNDO": "تم التراجع عن آخر حركة.",
 	"ANNOUNCE_GAME_WON": "تهانينا، لقد أزلت جميع البلاطات!",

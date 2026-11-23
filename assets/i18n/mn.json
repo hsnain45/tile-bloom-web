@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} тохирох хосыг тодруулав.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} тохирох хосыг тодруулав.",
 	"ANNOUNCE_HINT_NONE": "Тохирох хос байхгүй байна.",
+	"ANNOUNCE_HINT_TRIPLE": "Тохирч буй гурвал тодорлоо.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Боломжтой нүүдэл алга.",
 	"ANNOUNCE_SHUFFLE": "Хавтангуудыг холилоо.",
 	"ANNOUNCE_UNDO": "Сүүлийн нүүдлийг буцаалаа.",
 	"ANNOUNCE_GAME_WON": "Баяр хүргэе, та өрөлтийг бүрэн цэвэрлэлээ!",

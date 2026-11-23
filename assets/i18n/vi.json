@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Trùng khớp. Còn lại {{remaining}} đá.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} cặp trùng khớp được làm nổi bật.",
 	"ANNOUNCE_HINT_NONE": "Không có cặp trùng khớp nào.",
+	"ANNOUNCE_HINT_TRIPLE": "Một bộ ba phù hợp đã được đánh dấu.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Không còn nước đi nào.",
 	"ANNOUNCE_SHUFFLE": "Đá đã được xáo trộn.",
 	"ANNOUNCE_UNDO": "Đã hoàn tác nước đi cuối cùng.",
 	"ANNOUNCE_GAME_WON": "Chúc mừng, bạn đã dọn sạch bảng!",

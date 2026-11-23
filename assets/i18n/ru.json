@@ -217,6 +217,8 @@
 	"ANNOUNCE_HINT_PAIRS_ONE": "Выделена {{count}} совпадающая пара.",
 	"ANNOUNCE_HINT_PAIRS_FEW": "Выделено {{count}} совпадающие пары.",
 	"ANNOUNCE_HINT_NONE": "Нет доступных совпадающих пар.",
+	"ANNOUNCE_HINT_TRIPLE": "Подсвечена совпадающая тройка.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Нет доступных ходов.",
 	"ANNOUNCE_SHUFFLE": "Фишки перемешаны.",
 	"ANNOUNCE_UNDO": "Последний ход отменён.",
 	"ANNOUNCE_GAME_WON": "Поздравляю, вы очистили поле!",

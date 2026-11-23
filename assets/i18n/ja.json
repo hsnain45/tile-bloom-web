@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "一致しました。残り{{remaining}}枚の牌。",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}組の一致するペアをハイライト表示。",
 	"ANNOUNCE_HINT_NONE": "一致するペアはありません。",
+	"ANNOUNCE_HINT_TRIPLE": "一致する3枚がハイライトされました。",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "可能な手がありません。",
 	"ANNOUNCE_SHUFFLE": "牌をシャッフルしました。",
 	"ANNOUNCE_UNDO": "最後の手を元に戻しました。",
 	"ANNOUNCE_GAME_WON": "おめでとうございます、盤面をクリアしました！",

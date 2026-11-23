@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matching pairs highlighted.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} matching pair highlighted.",
 	"ANNOUNCE_HINT_NONE": "No matching pairs available.",
+	"ANNOUNCE_HINT_TRIPLE": "A matching triple is highlighted.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "No moves available.",
 	"ANNOUNCE_SHUFFLE": "Tiles shuffled.",
 	"ANNOUNCE_UNDO": "Last move undone.",
 	"ANNOUNCE_GAME_WON": "Congratulations, you cleared the board!",

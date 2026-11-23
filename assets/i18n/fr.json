@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} paires correspondantes mises en évidence.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} paire correspondante mise en évidence.",
 	"ANNOUNCE_HINT_NONE": "Aucune paire correspondante disponible.",
+	"ANNOUNCE_HINT_TRIPLE": "Un trio correspondant est mis en évidence.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Aucun coup disponible.",
 	"ANNOUNCE_SHUFFLE": "Tuiles mélangées.",
 	"ANNOUNCE_UNDO": "Dernier mouvement annulé.",
 	"ANNOUNCE_GAME_WON": "Félicitations, vous avez dégagé le plateau !",

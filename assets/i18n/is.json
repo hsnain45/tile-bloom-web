@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} samsvarandi pör ljómuð.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} samsvarandi par ljómað.",
 	"ANNOUNCE_HINT_NONE": "Engin samsvarandi pör í boði.",
+	"ANNOUNCE_HINT_TRIPLE": "Samsvarandi þrenning hefur verið auðkennd.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Engar leikr mögulegar.",
 	"ANNOUNCE_SHUFFLE": "Flísum stokkað.",
 	"ANNOUNCE_UNDO": "Síðasti leikur afturkallaður.",
 	"ANNOUNCE_GAME_WON": "Til hamingju, þú hreinsaðir borðið!",

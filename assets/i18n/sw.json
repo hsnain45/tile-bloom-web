@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "Jozi {{count}} zinazolingana zimeangaziwa.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "Jozi {{count}} inayolingana imeangaziwa.",
 	"ANNOUNCE_HINT_NONE": "Hakuna jozi zinazolingana zinazopatikana.",
+	"ANNOUNCE_HINT_TRIPLE": "Tatu zinazolingana zimeangaziwa.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Hakuna hatua zinazopatikana.",
 	"ANNOUNCE_SHUFFLE": "Vigae vimechanganywa.",
 	"ANNOUNCE_UNDO": "Hatua ya mwisho imetendulewa.",
 	"ANNOUNCE_GAME_WON": "Hongera, umesafisha ubao!",

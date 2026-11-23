@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} సరిపోలే జతలు హైలైట్ చేయబడ్డాయి.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} సరిపోలే జత హైలైట్ చేయబడింది.",
 	"ANNOUNCE_HINT_NONE": "సరిపోలే జతలు అందుబాటులో లేవు.",
+	"ANNOUNCE_HINT_TRIPLE": "సరిపోలే మూడు రాళ్లు హైలైట్ చేయబడ్డాయి.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "అందుబాటులో కదలికలు లేవు.",
 	"ANNOUNCE_SHUFFLE": "టైల్స్ కలపబడ్డాయి.",
 	"ANNOUNCE_UNDO": "చివరి మూవ్ రద్దు చేయబడింది.",
 	"ANNOUNCE_GAME_WON": "అభినందనలు, మీరు బోర్డు క్లియర్ చేశారు!",

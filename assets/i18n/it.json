@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} coppie corrispondenti evidenziate.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} coppia corrispondente evidenziata.",
 	"ANNOUNCE_HINT_NONE": "Nessuna coppia corrispondente disponibile.",
+	"ANNOUNCE_HINT_TRIPLE": "È stata evidenziata una tripletta corrispondente.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Nessuna mossa disponibile.",
 	"ANNOUNCE_SHUFFLE": "Tessere mescolate.",
 	"ANNOUNCE_UNDO": "Ultima mossa annullata.",
 	"ANNOUNCE_GAME_WON": "Congratulazioni, hai liberato il tabellone!",

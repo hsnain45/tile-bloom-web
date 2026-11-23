@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Párosítva. {{remaining}} kő maradt.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} megfelelő pár kiemelve.",
 	"ANNOUNCE_HINT_NONE": "Nincs elérhető megfelelő pár.",
+	"ANNOUNCE_HINT_TRIPLE": "Egy egyező hármas ki van emelve.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Nincs elérhető lépés.",
 	"ANNOUNCE_SHUFFLE": "Kövek megkeverve.",
 	"ANNOUNCE_UNDO": "Utolsó lépés visszavonva.",
 	"ANNOUNCE_GAME_WON": "Gratulálunk, kiürítette a táblát!",

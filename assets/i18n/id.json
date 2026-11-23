@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "Cocok. {{remaining}} ubin tersisa.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pasangan cocok disorot.",
 	"ANNOUNCE_HINT_NONE": "Tidak ada pasangan cocok yang tersedia.",
+	"ANNOUNCE_HINT_TRIPLE": "Tiga yang cocok telah disorot.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Tidak ada langkah tersedia.",
 	"ANNOUNCE_SHUFFLE": "Ubin diacak.",
 	"ANNOUNCE_UNDO": "Langkah terakhir dibatalkan.",
 	"ANNOUNCE_GAME_WON": "Selamat, Anda berhasil membersihkan papan!",

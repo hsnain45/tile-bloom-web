@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pare berdin nabarmendu dira.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} pare berdin nabarmendu da.",
 	"ANNOUNCE_HINT_NONE": "Ez dago parekatze posiblerik.",
+	"ANNOUNCE_HINT_TRIPLE": "Bat datorren hirukote bat nabarmendu da.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Ez dago mugimendurik eskuragarri.",
 	"ANNOUNCE_SHUFFLE": "Harriak nahastuta.",
 	"ANNOUNCE_UNDO": "Azken mugimendua desegin da.",
 	"ANNOUNCE_GAME_WON": "Zorionak, taula garbitu duzu!",

@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pares coincidentes resaltados.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} par coincidente resaltado.",
 	"ANNOUNCE_HINT_NONE": "No hay pares coincidentes disponibles.",
+	"ANNOUNCE_HINT_TRIPLE": "Se ha destacado un trío coincidente.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "No hay movimientos disponibles.",
 	"ANNOUNCE_SHUFFLE": "Fichas barajadas.",
 	"ANNOUNCE_UNDO": "Último movimiento deshecho.",
 	"ANNOUNCE_GAME_WON": "¡Felicidades, has despejado el tablero!",

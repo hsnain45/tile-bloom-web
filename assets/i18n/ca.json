@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} parells coincidents ressaltats.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} parell coincident ressaltat.",
 	"ANNOUNCE_HINT_NONE": "No hi ha parells coincidents disponibles.",
+	"ANNOUNCE_HINT_TRIPLE": "S'ha destacat un trio coincident.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "No hi ha moviments disponibles.",
 	"ANNOUNCE_SHUFFLE": "Fitxes barrejades.",
 	"ANNOUNCE_UNDO": "Últim moviment desfet.",
 	"ANNOUNCE_GAME_WON": "Felicitats, has netejat el tauler!",

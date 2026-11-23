@@ -217,6 +217,8 @@
 	"ANNOUNCE_HINT_PAIRS_ONE": "Zvýrazněn {{count}} odpovídající pár.",
 	"ANNOUNCE_HINT_PAIRS_FEW": "Zvýrazněny {{count}} odpovídající páry.",
 	"ANNOUNCE_HINT_NONE": "Žádné odpovídající páry nejsou k dispozici.",
+	"ANNOUNCE_HINT_TRIPLE": "Byla zvýrazněna odpovídající trojice.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Žádné dostupné tahy.",
 	"ANNOUNCE_SHUFFLE": "Dlaždice zamíchány.",
 	"ANNOUNCE_UNDO": "Poslední tah vrácen zpět.",
 	"ANNOUNCE_GAME_WON": "Gratulujeme, vyčistili jste hrací plochu!",

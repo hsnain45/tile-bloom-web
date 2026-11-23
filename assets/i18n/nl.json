@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} overeenkomende paren gemarkeerd.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} overeenkomend paar gemarkeerd.",
 	"ANNOUNCE_HINT_NONE": "Geen overeenkomende paren beschikbaar.",
+	"ANNOUNCE_HINT_TRIPLE": "Een bijpassend drietal is gemarkeerd.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Geen zetten beschikbaar.",
 	"ANNOUNCE_SHUFFLE": "Stenen geschud.",
 	"ANNOUNCE_UNDO": "Laatste zet ongedaan gemaakt.",
 	"ANNOUNCE_GAME_WON": "Gefeliciteerd, je hebt het bord leeggemaakt!",

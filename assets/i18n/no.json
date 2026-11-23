@@ -214,6 +214,8 @@
 	"ANNOUNCE_MATCHED_ONE": "Matchet. {{remaining}} stein igjen.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matchende par fremhevet.",
 	"ANNOUNCE_HINT_NONE": "Ingen matchende par tilgjengelig.",
+	"ANNOUNCE_HINT_TRIPLE": "En matchende trio er uthevet.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Ingen trekk tilgjengelig.",
 	"ANNOUNCE_SHUFFLE": "Steiner blandet.",
 	"ANNOUNCE_UNDO": "Siste trekk angret.",
 	"ANNOUNCE_GAME_WON": "Gratulerer, du ryddet brettet!",

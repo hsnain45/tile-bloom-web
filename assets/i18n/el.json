@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} ταιριαστά ζεύγη επισημάνθηκαν.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} ταιριαστό ζεύγος επισημάνθηκε.",
 	"ANNOUNCE_HINT_NONE": "Δεν υπάρχουν διαθέσιμα ταιριαστά ζεύγη.",
+	"ANNOUNCE_HINT_TRIPLE": "Επισημάνθηκε μια τριάδα που ταιριάζει.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Δεν υπάρχουν διαθέσιμες κινήσεις.",
 	"ANNOUNCE_SHUFFLE": "Πλακάκια ανακατεύτηκαν.",
 	"ANNOUNCE_UNDO": "Η τελευταία κίνηση αναιρέθηκε.",
 	"ANNOUNCE_GAME_WON": "Συγχαρητήρια, καθαρίσατε τον πίνακα!",

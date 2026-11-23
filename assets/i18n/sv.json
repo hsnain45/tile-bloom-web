@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matchande par markerade.",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} matchande par markerat.",
 	"ANNOUNCE_HINT_NONE": "Inga matchande par tillgängliga.",
+	"ANNOUNCE_HINT_TRIPLE": "En matchande trio har markerats.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Inga drag tillgängliga.",
 	"ANNOUNCE_SHUFFLE": "Stenar blandade.",
 	"ANNOUNCE_UNDO": "Senaste drag ångrat.",
 	"ANNOUNCE_GAME_WON": "Grattis, du klarade spelbrädet!",

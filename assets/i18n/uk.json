@@ -217,6 +217,8 @@
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} відповідну пару виділено.",
 	"ANNOUNCE_HINT_PAIRS_FEW": "{{count}} відповідні пари виділено.",
 	"ANNOUNCE_HINT_NONE": "Немає доступних відповідних пар.",
+	"ANNOUNCE_HINT_TRIPLE": "Підсвічено відповідну трійку.",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "Немає доступних ходів.",
 	"ANNOUNCE_SHUFFLE": "Камені перемішано.",
 	"ANNOUNCE_UNDO": "Останній хід скасовано.",
 	"ANNOUNCE_GAME_WON": "Вітаємо, ви очистили дошку!",

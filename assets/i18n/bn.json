@@ -213,6 +213,8 @@
 	"ANNOUNCE_MATCHED": "মিলেছে। {{remaining}}টি টাইল বাকি।",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}টি মিলবার জোড়া হাইলাইট করা হয়েছে।",
 	"ANNOUNCE_HINT_NONE": "কোনো মিলবার জোড়া নেই।",
+	"ANNOUNCE_HINT_TRIPLE": "একটি মিলে যাওয়া তিনটি হাইলাইট করা হয়েছে।",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "কোনো চাল উপলব্ধ নেই।",
 	"ANNOUNCE_SHUFFLE": "টাইলগুলো এলোমেলো করা হয়েছে।",
 	"ANNOUNCE_UNDO": "শেষ পদক্ষেপ পূর্বাবস্থায় ফেরানো হয়েছে।",
 	"ANNOUNCE_GAME_WON": "অভিনন্দন, আপনি বোর্ড পরিষ্কার করেছেন!",

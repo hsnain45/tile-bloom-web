@@ -215,6 +215,8 @@
 	"ANNOUNCE_HINT_PAIRS": "{{count}} मेल खाने वाली जोड़ियाँ हाइलाइट की गईं।",
 	"ANNOUNCE_HINT_PAIRS_ONE": "{{count}} मेल खाने वाली जोड़ी हाइलाइट की गई।",
 	"ANNOUNCE_HINT_NONE": "कोई मेल खाने वाली जोड़ी उपलब्ध नहीं।",
+	"ANNOUNCE_HINT_TRIPLE": "एक मेल खाता त्रिक हाइलाइट किया गया है।",
+	"ANNOUNCE_HINT_NONE_TRIPLE": "कोई चाल उपलब्ध नहीं है।",
 	"ANNOUNCE_SHUFFLE": "पत्थर फेरबदल किए गए।",
 	"ANNOUNCE_UNDO": "अंतिम चाल पूर्ववत की गई।",
 	"ANNOUNCE_GAME_WON": "बधाई हो, आपने बोर्ड साफ कर दिया!",
