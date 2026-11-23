@@ -437,5 +437,12 @@
 	"GARDEN_PLANT_chhatri-phool": "Umbrella Bloom",
 	"GARDEN_PLANT_ghanti-phool": "Bell Bloom",
 	"GARDEN_PLANT_kunji-phool": "Key Bloom",
-	"GARDEN_PLANT_guldaan-phool": "Vase Bloom"
+	"GARDEN_PLANT_guldaan-phool": "Vase Bloom",
+	"WIN_STARS": "{{count}} of 3 stars",
+	"WIN_FLOWER_POINTS": "+{{points}} flower points",
+	"WIN_NEW_FLOWER": "A new flower grew in your garden!",
+	"MSG_LIFELINE": "A lifeline saved you! {{count}} left.",
+	"MSG_NO_LIFELINES": "No lifelines left.",
+	"TRY_AGAIN": "Try again",
+	"LIFELINES_LEFT": "{{count}} of 4 lifelines left"
 }

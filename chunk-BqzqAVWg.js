@@ -1,0 +1,1 @@
+import{t as bt}from"./chunk-BoeKt6Uo.js";import"./main.js";export{bt as WorkerService};
