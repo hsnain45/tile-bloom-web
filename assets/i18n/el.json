@@ -210,6 +210,7 @@
 	"t_e9": "Επιπλέον 9",
 	"TILE_LABEL": "{{name}}, στρώμα {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, στρώμα {{layer}}, ταιριαστό ζεύγος",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, στρώμα {{layer}}, τριάδα που ταιριάζει",
 	"ANNOUNCE_MATCHED": "Ταίριασε. Απομένουν {{remaining}} πλακάκια.",
 	"ANNOUNCE_MATCHED_ONE": "Ταίριασε. Απομένει {{remaining}} πλακάκι.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} ταιριαστά ζεύγη επισημάνθηκαν.",

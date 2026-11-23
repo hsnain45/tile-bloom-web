@@ -210,6 +210,7 @@
 	"t_e9": "Tambahan 9",
 	"TILE_LABEL": "{{name}}, lapisan {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lapisan {{layer}}, pasangan sepadan",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lapisan {{layer}}, tiga yang sepadan",
 	"ANNOUNCE_MATCHED": "Sepadan. {{remaining}} jubin berbaki.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pasangan sepadan diserlahkan.",
 	"ANNOUNCE_HINT_NONE": "Tiada pasangan sepadan yang tersedia.",

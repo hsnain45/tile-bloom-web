@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, lager {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lager {{layer}}, matchande par",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lager {{layer}}, matchande trio",
 	"ANNOUNCE_MATCHED": "Matchade. {{remaining}} stenar kvar.",
 	"ANNOUNCE_MATCHED_ONE": "Matchade. {{remaining}} sten kvar.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matchande par markerade.",

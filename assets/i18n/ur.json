@@ -210,6 +210,7 @@
 	"t_e9": "اضافی 9",
 	"TILE_LABEL": "{{name}}، پرت {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}، پرت {{layer}}، ملتی جوڑی",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}، پرت {{layer}}, ملتا جلتا تین کا سیٹ",
 	"ANNOUNCE_MATCHED": "میل ہوا۔ {{remaining}} ٹائلیں باقی ہیں۔",
 	"ANNOUNCE_MATCHED_ONE": "میل ہوا۔ {{remaining}} ٹائل باقی ہے۔",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} ملتی جوڑیاں نمایاں کی گئیں۔",

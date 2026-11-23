@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, capa {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, capa {{layer}}, pareja coincidente",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, capa {{layer}}, trío coincidente",
 	"ANNOUNCE_MATCHED": "Emparejado. Quedan {{remaining}} fichas.",
 	"ANNOUNCE_MATCHED_ONE": "Emparejado. Queda {{remaining}} ficha.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pares coincidentes resaltados.",

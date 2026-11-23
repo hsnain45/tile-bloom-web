@@ -210,6 +210,7 @@
 	"t_e9": "Estra 9",
 	"TILE_LABEL": "{{name}}, geruza {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, geruza {{layer}}, pare berdina",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, geruza {{layer}}, bat datorren hirukotea",
 	"ANNOUNCE_MATCHED": "Parekatuta. {{remaining}} harriak geratzen dira.",
 	"ANNOUNCE_MATCHED_ONE": "Parekatuta. {{remaining}} harri geratzen da.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pare berdin nabarmendu dira.",

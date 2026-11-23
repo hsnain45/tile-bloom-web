@@ -210,6 +210,7 @@
 	"t_e9": "Auka 9",
 	"TILE_LABEL": "{{name}}, lag {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lag {{layer}}, samsvarandi par",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lag {{layer}}, samsvarandi þrenning",
 	"ANNOUNCE_MATCHED": "Pörun tókst. {{remaining}} flísar eftir.",
 	"ANNOUNCE_MATCHED_ONE": "Pörun tókst. {{remaining}} flís eftir.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} samsvarandi pör ljómuð.",

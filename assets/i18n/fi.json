@@ -210,6 +210,7 @@
 	"t_e9": "Lisä 9",
 	"TILE_LABEL": "{{name}}, kerros {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, kerros {{layer}}, vastaava pari",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, kerros {{layer}}, vastaava kolmikko",
 	"ANNOUNCE_MATCHED": "Täsmätty. {{remaining}} kiveä jäljellä.",
 	"ANNOUNCE_MATCHED_ONE": "Täsmätty. {{remaining}} kivi jäljellä.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} vastaavaa paria korostettu.",

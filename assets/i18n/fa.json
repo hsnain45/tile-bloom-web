@@ -210,6 +210,7 @@
 	"t_e9": "اضافی ۹",
 	"TILE_LABEL": "{{name}}، لایه {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}، لایه {{layer}}، جفت منطبق",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}، لایه {{layer}}, سه‌تایی همسان",
 	"ANNOUNCE_MATCHED": "منطبق شد. {{remaining}} کاشی باقی مانده.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} جفت منطبق برجسته شد.",
 	"ANNOUNCE_HINT_NONE": "هیچ جفت منطبقی موجود نیست.",

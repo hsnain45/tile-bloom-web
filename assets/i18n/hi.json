@@ -210,6 +210,7 @@
 	"t_e9": "अतिरिक्त 9",
 	"TILE_LABEL": "{{name}}, परत {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, परत {{layer}}, मेल खाने वाली जोड़ी",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, परत {{layer}}, मेल खाता त्रिक",
 	"ANNOUNCE_MATCHED": "मेल खाया। {{remaining}} पत्थर बचे हैं।",
 	"ANNOUNCE_MATCHED_ONE": "मेल खाया। {{remaining}} पत्थर बचा है।",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} मेल खाने वाली जोड़ियाँ हाइलाइट की गईं।",

@@ -210,6 +210,7 @@
 	"t_e9": "Breise 9",
 	"TILE_LABEL": "{{name}}, ciseal {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, ciseal {{layer}}, péire meaitseála",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, ciseal {{layer}}, tríréad meaitseála",
 	"ANNOUNCE_MATCHED": "Meaitseáilte. {{remaining}} tíl fágtha.",
 	"ANNOUNCE_MATCHED_ONE": "Meaitseáilte. {{remaining}} tíl amháin fágtha.",
 	"ANNOUNCE_HINT_PAIRS": "Aibhsíodh {{count}} péire meaitseála.",

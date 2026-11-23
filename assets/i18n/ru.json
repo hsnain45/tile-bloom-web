@@ -210,6 +210,7 @@
 	"t_e9": "Экстра 9",
 	"TILE_LABEL": "{{name}}, слой {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, слой {{layer}}, совпадающая пара",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, слой {{layer}}, совпадающая тройка",
 	"ANNOUNCE_MATCHED": "Совпадение. Осталось {{remaining}} фишек.",
 	"ANNOUNCE_MATCHED_ONE": "Совпадение. Осталась {{remaining}} фишка.",
 	"ANNOUNCE_MATCHED_FEW": "Совпадение. Осталось {{remaining}} фишки.",

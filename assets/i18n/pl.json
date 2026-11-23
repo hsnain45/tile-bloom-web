@@ -210,6 +210,7 @@
 	"t_e9": "Dodatkowy 9",
 	"TILE_LABEL": "{{name}}, warstwa {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, warstwa {{layer}}, pasująca para",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, warstwa {{layer}}, pasująca trójka",
 	"ANNOUNCE_MATCHED": "Dopasowano. Pozostało {{remaining}} kamieni.",
 	"ANNOUNCE_MATCHED_ONE": "Dopasowano. Pozostał {{remaining}} kamień.",
 	"ANNOUNCE_MATCHED_FEW": "Dopasowano. Pozostały {{remaining}} kamienie.",

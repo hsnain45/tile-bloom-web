@@ -210,6 +210,7 @@
 	"t_e9": "추가 9",
 	"TILE_LABEL": "{{name}}, {{layer}}번 레이어",
 	"TILE_LABEL_HINTED": "{{name}}, {{layer}}번 레이어, 일치하는 쌍",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, {{layer}}번 레이어, 일치하는 3장",
 	"ANNOUNCE_MATCHED": "일치. 타일 {{remaining}}개 남음.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}쌍의 일치하는 타일이 강조 표시됨.",
 	"ANNOUNCE_HINT_NONE": "사용 가능한 일치하는 쌍이 없습니다.",

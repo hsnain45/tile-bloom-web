@@ -210,6 +210,7 @@
 	"t_e9": "Додатково 9",
 	"TILE_LABEL": "{{name}}, шар {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, шар {{layer}}, відповідна пара",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, шар {{layer}}, відповідна трійка",
 	"ANNOUNCE_MATCHED": "Збіг. Залишилось {{remaining}} каменів.",
 	"ANNOUNCE_MATCHED_ONE": "Збіг. Залишився {{remaining}} камінь.",
 	"ANNOUNCE_MATCHED_FEW": "Збіг. Залишилось {{remaining}} камені.",

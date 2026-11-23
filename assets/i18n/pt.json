@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, camada {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, camada {{layer}}, par correspondente",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, camada {{layer}}, trio correspondente",
 	"ANNOUNCE_MATCHED": "Correspondência. {{remaining}} peças restantes.",
 	"ANNOUNCE_MATCHED_ONE": "Correspondência. {{remaining}} peça restante.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pares correspondentes destacados.",

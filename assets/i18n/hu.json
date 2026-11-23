@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, réteg {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, réteg {{layer}}, megfelelő pár",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, réteg {{layer}}, egyező hármas",
 	"ANNOUNCE_MATCHED": "Párosítva. {{remaining}} kő maradt.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} megfelelő pár kiemelve.",
 	"ANNOUNCE_HINT_NONE": "Nincs elérhető megfelelő pár.",

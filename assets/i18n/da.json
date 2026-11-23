@@ -210,6 +210,7 @@
 	"t_e9": "Ekstra 9",
 	"TILE_LABEL": "{{name}}, lag {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lag {{layer}}, matchende par",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lag {{layer}}, matchende trio",
 	"ANNOUNCE_MATCHED": "Matchet. {{remaining}} brikker tilbage.",
 	"ANNOUNCE_MATCHED_ONE": "Matchet. {{remaining}} brik tilbage.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matchende par fremhævet.",

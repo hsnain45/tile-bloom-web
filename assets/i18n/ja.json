@@ -210,6 +210,7 @@
 	"t_e9": "エキストラ9",
 	"TILE_LABEL": "{{name}}、レイヤー{{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}、レイヤー{{layer}}、一致するペア",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}、レイヤー{{layer}}, 一致する3枚",
 	"ANNOUNCE_MATCHED": "一致しました。残り{{remaining}}枚の牌。",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}組の一致するペアをハイライト表示。",
 	"ANNOUNCE_HINT_NONE": "一致するペアはありません。",

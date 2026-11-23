@@ -210,6 +210,7 @@
 	"t_e9": "Thêm 9",
 	"TILE_LABEL": "{{name}}, lớp {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lớp {{layer}}, cặp trùng khớp",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lớp {{layer}}, bộ ba phù hợp",
 	"ANNOUNCE_MATCHED": "Trùng khớp. Còn lại {{remaining}} đá.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} cặp trùng khớp được làm nổi bật.",
 	"ANNOUNCE_HINT_NONE": "Không có cặp trùng khớp nào.",

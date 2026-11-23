@@ -210,6 +210,7 @@
 	"t_e9": "Ekstra 9",
 	"TILE_LABEL": "{{name}}, lapisan {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, lapisan {{layer}}, pasangan cocok",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, lapisan {{layer}}, tiga yang cocok",
 	"ANNOUNCE_MATCHED": "Cocok. {{remaining}} ubin tersisa.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} pasangan cocok disorot.",
 	"ANNOUNCE_HINT_NONE": "Tidak ada pasangan cocok yang tersedia.",

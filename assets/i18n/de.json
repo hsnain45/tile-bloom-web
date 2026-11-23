@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, Ebene {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, Ebene {{layer}}, passendes Paar",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, Ebene {{layer}}, passendes Trio",
 	"ANNOUNCE_MATCHED": "Entfernt. Noch {{remaining}} Steine übrig.",
 	"ANNOUNCE_MATCHED_ONE": "Entfernt. Noch {{remaining}} Stein übrig.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} passende Paare hervorgehoben.",

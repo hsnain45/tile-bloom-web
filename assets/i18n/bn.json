@@ -210,6 +210,7 @@
 	"t_e9": "অতিরিক্ত ৯",
 	"TILE_LABEL": "{{name}}, স্তর {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, স্তর {{layer}}, মিলবার জোড়া",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, স্তর {{layer}}, মিলে যাওয়া তিনটি",
 	"ANNOUNCE_MATCHED": "মিলেছে। {{remaining}}টি টাইল বাকি।",
 	"ANNOUNCE_HINT_PAIRS": "{{count}}টি মিলবার জোড়া হাইলাইট করা হয়েছে।",
 	"ANNOUNCE_HINT_NONE": "কোনো মিলবার জোড়া নেই।",

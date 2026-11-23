@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, livello {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, livello {{layer}}, coppia corrispondente",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, livello {{layer}}, tripletta corrispondente",
 	"ANNOUNCE_MATCHED": "Abbinato. {{remaining}} tessere rimanenti.",
 	"ANNOUNCE_MATCHED_ONE": "Abbinato. {{remaining}} tessera rimanente.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} coppie corrispondenti evidenziate.",

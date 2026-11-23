@@ -210,6 +210,7 @@
 	"t_e9": "Ekstra 9",
 	"TILE_LABEL": "{{name}}, katman {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, katman {{layer}}, eşleşen çift",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, katman {{layer}}, eşleşen üçlü",
 	"ANNOUNCE_MATCHED": "Eşleşti. {{remaining}} taş kaldı.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} eşleşen çift vurgulandı.",
 	"ANNOUNCE_HINT_NONE": "Kullanılabilir eşleşen çift yok.",

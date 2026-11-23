@@ -210,6 +210,7 @@
 	"t_e9": "พิเศษ 9",
 	"TILE_LABEL": "{{name}}, ชั้น {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, ชั้น {{layer}}, คู่ที่ตรงกัน",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, ชั้น {{layer}}, สามใบที่ตรงกัน",
 	"ANNOUNCE_MATCHED": "จับคู่แล้ว. เหลือไพ่ {{remaining}} ใบ.",
 	"ANNOUNCE_HINT_PAIRS": "เน้น {{count}} คู่ที่ตรงกัน.",
 	"ANNOUNCE_HINT_NONE": "ไม่มีคู่ที่ตรงกันที่ใช้ได้.",

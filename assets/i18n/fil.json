@@ -210,6 +210,7 @@
 	"t_e9": "Dagdag 9",
 	"TILE_LABEL": "{{name}}, layer {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, layer {{layer}}, magkatugmang pares",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, layer {{layer}}, magkatugmang trio",
 	"ANNOUNCE_MATCHED": "Nagtugma. {{remaining}} na bato ang natitira.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} magkatugmang pares ang na-highlight.",
 	"ANNOUNCE_HINT_NONE": "Walang magkatugmang pares na available.",

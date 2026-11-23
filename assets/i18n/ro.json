@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, strat {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, strat {{layer}}, pereche potrivită",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, strat {{layer}}, trio potrivit",
 	"ANNOUNCE_MATCHED": "Potrivit. Au rămas {{remaining}} de pietre.",
 	"ANNOUNCE_MATCHED_ONE": "Potrivit. A rămas {{remaining}} piatră.",
 	"ANNOUNCE_MATCHED_FEW": "Potrivit. Au rămas {{remaining}} pietre.",

@@ -210,6 +210,7 @@
 	"t_e9": "Ziada 9",
 	"TILE_LABEL": "{{name}}, safu {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, safu {{layer}}, jozi linalolingana",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, safu {{layer}}, tatu zinazolingana",
 	"ANNOUNCE_MATCHED": "Imelingana. Vigae {{remaining}} vimebaki.",
 	"ANNOUNCE_MATCHED_ONE": "Imelingana. Kigae {{remaining}} kimebaki.",
 	"ANNOUNCE_HINT_PAIRS": "Jozi {{count}} zinazolingana zimeangaziwa.",

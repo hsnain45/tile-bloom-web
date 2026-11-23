@@ -210,6 +210,7 @@
 	"t_e9": "கூடுதல் 9",
 	"TILE_LABEL": "{{name}}, அடுக்கு {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, அடுக்கு {{layer}}, பொருந்தும் ஜோடி",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, அடுக்கு {{layer}}, பொருந்தும் மூன்று",
 	"ANNOUNCE_MATCHED": "பொருந்தியது. {{remaining}} கற்கள் மீதமுள்ளன.",
 	"ANNOUNCE_MATCHED_ONE": "பொருந்தியது. {{remaining}} கல் மீதமுள்ளது.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} பொருந்தும் ஜோடிகள் முன்னிலைப்படுத்தப்பட்டன.",

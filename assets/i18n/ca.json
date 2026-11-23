@@ -210,6 +210,7 @@
 	"t_e9": "Extra 9",
 	"TILE_LABEL": "{{name}}, capa {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, capa {{layer}}, parell coincident",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, capa {{layer}}, trio coincident",
 	"ANNOUNCE_MATCHED": "Coincidència. Queden {{remaining}} fitxes.",
 	"ANNOUNCE_MATCHED_ONE": "Coincidència. Queda {{remaining}} fitxa.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} parells coincidents ressaltats.",

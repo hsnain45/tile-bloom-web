@@ -210,6 +210,7 @@
 	"t_e9": "Herb Nine",
 	"TILE_LABEL": "{{name}}, layer {{layer}}",
 	"TILE_LABEL_HINTED": "{{name}}, layer {{layer}}, matching pair",
+	"TILE_LABEL_HINTED_TRIPLE": "{{name}}, layer {{layer}}, matching triple",
 	"ANNOUNCE_MATCHED": "Matched. {{remaining}} tiles remaining.",
 	"ANNOUNCE_MATCHED_ONE": "Matched. {{remaining}} tile remaining.",
 	"ANNOUNCE_HINT_PAIRS": "{{count}} matching pairs highlighted.",
