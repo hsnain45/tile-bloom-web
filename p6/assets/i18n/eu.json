@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Eguneko lorea hasi da.",
 	"GARDEN": "Lorategia",
 	"GARDEN_POINTS": "Lore puntuak",
+	"HOME_PLAY": "Jolastu",
+	"HOME_LEVEL": "Maila {{n}}",
 	"GARDEN_NEXT": "Hurrengo apaingarria: {{name}}, {{points}} puntu barru",
 	"GARDEN_EMPTY": "Zure lorategia hutsik dago. Irabazi maila bat eta lehen lorea hemen loratuko da.",
 	"GARDEN_DECOR_path": "Lorategiko bidea",

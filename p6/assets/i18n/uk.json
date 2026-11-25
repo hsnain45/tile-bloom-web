@@ -368,6 +368,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Квітку дня розпочато.",
 	"GARDEN": "Сад",
 	"GARDEN_POINTS": "Бали квітів",
+	"HOME_PLAY": "Грати",
+	"HOME_LEVEL": "Рівень {{n}}",
 	"GARDEN_NEXT": "Наступна прикраса: {{name}} ще за {{points}} балів",
 	"GARDEN_EMPTY": "Ваш сад порожній. Виграйте рівень, і тут розквітне перша квітка.",
 	"GARDEN_DECOR_path": "Садова доріжка",

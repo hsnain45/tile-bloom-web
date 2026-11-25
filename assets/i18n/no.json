@@ -365,6 +365,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Dagens blomst startet.",
 	"GARDEN": "Hage",
 	"GARDEN_POINTS": "Blomsterpoeng",
+	"HOME_PLAY": "Spill",
+	"HOME_LEVEL": "Nivå {{n}}",
 	"GARDEN_NEXT": "Neste pynt: {{name}} om {{points}} poeng til",
 	"GARDEN_EMPTY": "Hagen din er tom. Vinn et nivå, så blomstrer den første blomsten her.",
 	"GARDEN_DECOR_path": "Hagesti",

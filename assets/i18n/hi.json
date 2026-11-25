@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "आज का फूल शुरू हुआ।",
 	"GARDEN": "बगीचा",
 	"GARDEN_POINTS": "फूल अंक",
+	"HOME_PLAY": "खेलें",
+	"HOME_LEVEL": "स्तर {{n}}",
 	"GARDEN_NEXT": "अगली सजावट: {{name}}, {{points}} और अंकों में",
 	"GARDEN_EMPTY": "आपका बगीचा खाली है। एक लेवल जीतें और यहाँ पहला फूल खिलेगा।",
 	"GARDEN_DECOR_path": "बगीचे का रास्ता",

@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "오늘의 꽃 시작.",
 	"GARDEN": "정원",
 	"GARDEN_POINTS": "꽃 포인트",
+	"HOME_PLAY": "플레이",
+	"HOME_LEVEL": "레벨 {{n}}",
 	"GARDEN_NEXT": "다음 장식: {{name}} ({{points}}포인트 더 필요)",
 	"GARDEN_EMPTY": "정원이 비어 있습니다. 레벨에서 이기면 이곳에 첫 꽃이 핍니다.",
 	"GARDEN_DECOR_path": "정원 길",

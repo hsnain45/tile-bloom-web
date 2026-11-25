@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "ดอกไม้วันนี้เริ่มแล้ว",
 	"GARDEN": "สวน",
 	"GARDEN_POINTS": "แต้มดอกไม้",
+	"HOME_PLAY": "เล่น",
+	"HOME_LEVEL": "ด่าน {{n}}",
 	"GARDEN_NEXT": "ของตกแต่งถัดไป: {{name}} อีก {{points}} แต้ม",
 	"GARDEN_EMPTY": "สวนของคุณว่างเปล่า ชนะหนึ่งด่านแล้วดอกไม้ดอกแรกจะบานที่นี่",
 	"GARDEN_DECOR_path": "ทางเดินในสวน",

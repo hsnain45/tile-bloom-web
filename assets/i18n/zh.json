@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "今日之花开始。",
 	"GARDEN": "花园",
 	"GARDEN_POINTS": "花朵积分",
+	"HOME_PLAY": "开始游戏",
+	"HOME_LEVEL": "第 {{n}} 关",
 	"GARDEN_NEXT": "下一个装饰：{{name}}，还差 {{points}} 分",
 	"GARDEN_EMPTY": "你的花园是空的。赢得一关，第一朵花就会在这里绽放。",
 	"GARDEN_DECOR_path": "花园小径",

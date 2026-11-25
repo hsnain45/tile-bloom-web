@@ -368,6 +368,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Floarea zilei a început.",
 	"GARDEN": "Grădină",
 	"GARDEN_POINTS": "Puncte floare",
+	"HOME_PLAY": "Joacă",
+	"HOME_LEVEL": "Nivel {{n}}",
 	"GARDEN_NEXT": "Următoarea decorațiune: {{name}} peste {{points}} puncte",
 	"GARDEN_EMPTY": "Grădina ta este goală. Câștigă un nivel și prima floare va înflori aici.",
 	"GARDEN_DECOR_path": "Aleea grădinii",

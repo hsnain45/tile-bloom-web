@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Today's Flower started.",
 	"GARDEN": "Garden",
 	"GARDEN_POINTS": "Flower points",
+	"HOME_PLAY": "Play",
+	"HOME_LEVEL": "Level {{n}}",
 	"GARDEN_NEXT": "Next decoration: {{name}} in {{points}} more points",
 	"GARDEN_EMPTY": "Your garden is empty. Win a level and the first flower will bloom here.",
 	"GARDEN_DECOR_path": "Garden path",

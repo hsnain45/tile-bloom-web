@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Ua la Leo limeanza.",
 	"GARDEN": "Bustani",
 	"GARDEN_POINTS": "Pointi za maua",
+	"HOME_PLAY": "Cheza",
+	"HOME_LEVEL": "Kiwango {{n}}",
 	"GARDEN_NEXT": "Pambo linalofuata: {{name}} baada ya pointi {{points}} zaidi",
 	"GARDEN_EMPTY": "Bustani yako ni tupu. Shinda kiwango na ua la kwanza litachanua hapa.",
 	"GARDEN_DECOR_path": "Njia ya bustani",

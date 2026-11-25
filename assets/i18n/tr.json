@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Günün Çiçeği başladı.",
 	"GARDEN": "Bahçe",
 	"GARDEN_POINTS": "Çiçek puanları",
+	"HOME_PLAY": "Oyna",
+	"HOME_LEVEL": "Seviye {{n}}",
 	"GARDEN_NEXT": "Sıradaki süs: {{name}} için {{points}} puan daha",
 	"GARDEN_EMPTY": "Bahçen boş. Bir seviye kazan, ilk çiçek burada açsın.",
 	"GARDEN_DECOR_path": "Bahçe yolu",

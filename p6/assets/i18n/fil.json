@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Nagsimula ang Bulaklak ng Araw.",
 	"GARDEN": "Hardin",
 	"GARDEN_POINTS": "Mga puntos ng bulaklak",
+	"HOME_PLAY": "Maglaro",
+	"HOME_LEVEL": "Antas {{n}}",
 	"GARDEN_NEXT": "Susunod na dekorasyon: {{name}} sa {{points}} puntos pa",
 	"GARDEN_EMPTY": "Walang laman ang hardin mo. Manalo ng isang antas at mamumukadkad dito ang unang bulaklak.",
 	"GARDEN_DECOR_path": "Landas ng hardin",

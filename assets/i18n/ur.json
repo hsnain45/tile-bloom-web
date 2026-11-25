@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "آج کا پھول شروع ہوا۔",
 	"GARDEN": "باغ",
 	"GARDEN_POINTS": "پھول پوائنٹس",
+	"HOME_PLAY": "کھیلیں",
+	"HOME_LEVEL": "لیول {{n}}",
 	"GARDEN_NEXT": "اگلی سجاوٹ: {{name}}، مزید {{points}} پوائنٹس میں",
 	"GARDEN_EMPTY": "آپ کا باغ خالی ہے۔ ایک لیول جیتیں اور یہاں پہلا پھول کھلے گا۔",
 	"GARDEN_DECOR_path": "باغ کا راستہ",

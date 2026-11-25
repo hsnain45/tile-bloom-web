@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Päivän kukka aloitettu.",
 	"GARDEN": "Puutarha",
 	"GARDEN_POINTS": "Kukkapisteet",
+	"HOME_PLAY": "Pelaa",
+	"HOME_LEVEL": "Taso {{n}}",
 	"GARDEN_NEXT": "Seuraava koriste: {{name}} {{points}} pisteen päästä",
 	"GARDEN_EMPTY": "Puutarhasi on tyhjä. Voita taso, niin ensimmäinen kukka kukkii täällä.",
 	"GARDEN_DECOR_path": "Puutarhapolku",

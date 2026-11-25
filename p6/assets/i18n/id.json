@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Bunga Hari Ini dimulai.",
 	"GARDEN": "Taman",
 	"GARDEN_POINTS": "Poin bunga",
+	"HOME_PLAY": "Main",
+	"HOME_LEVEL": "Level {{n}}",
 	"GARDEN_NEXT": "Dekorasi berikutnya: {{name}} dengan {{points}} poin lagi",
 	"GARDEN_EMPTY": "Taman Anda kosong. Menangkan satu level dan bunga pertama akan mekar di sini.",
 	"GARDEN_DECOR_path": "Jalan taman",

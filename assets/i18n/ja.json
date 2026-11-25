@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "今日の花が始まりました。",
 	"GARDEN": "ガーデン",
 	"GARDEN_POINTS": "フラワーポイント",
+	"HOME_PLAY": "プレイ",
+	"HOME_LEVEL": "レベル {{n}}",
 	"GARDEN_NEXT": "次の飾り: {{name}}（あと{{points}}ポイント）",
 	"GARDEN_EMPTY": "ガーデンは空です。レベルに勝つと、ここに最初の花が咲きます。",
 	"GARDEN_DECOR_path": "ガーデンの小道",

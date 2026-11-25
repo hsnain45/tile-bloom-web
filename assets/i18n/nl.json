@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Bloem van vandaag gestart.",
 	"GARDEN": "Tuin",
 	"GARDEN_POINTS": "Bloempunten",
+	"HOME_PLAY": "Spelen",
+	"HOME_LEVEL": "Level {{n}}",
 	"GARDEN_NEXT": "Volgende versiering: {{name}} over {{points}} punten",
 	"GARDEN_EMPTY": "Je tuin is leeg. Win een level en de eerste bloem bloeit hier.",
 	"GARDEN_DECOR_path": "Tuinpad",

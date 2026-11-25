@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Hoa hôm nay bắt đầu.",
 	"GARDEN": "Khu vườn",
 	"GARDEN_POINTS": "Điểm hoa",
+	"HOME_PLAY": "Chơi",
+	"HOME_LEVEL": "Cấp {{n}}",
 	"GARDEN_NEXT": "Trang trí tiếp theo: {{name}} sau {{points}} điểm nữa",
 	"GARDEN_EMPTY": "Khu vườn của bạn đang trống. Thắng một cấp độ và bông hoa đầu tiên sẽ nở tại đây.",
 	"GARDEN_DECOR_path": "Lối đi vườn",

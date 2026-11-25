@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Fiore di oggi iniziato.",
 	"GARDEN": "Giardino",
 	"GARDEN_POINTS": "Punti fiore",
+	"HOME_PLAY": "Gioca",
+	"HOME_LEVEL": "Livello {{n}}",
 	"GARDEN_NEXT": "Prossima decorazione: {{name}} tra {{points}} punti",
 	"GARDEN_EMPTY": "Il tuo giardino è vuoto. Vinci un livello e qui fiorirà il primo fiore.",
 	"GARDEN_DECOR_path": "Sentiero del giardino",

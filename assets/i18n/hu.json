@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "A nap virága elindult.",
 	"GARDEN": "Kert",
 	"GARDEN_POINTS": "Virágpontok",
+	"HOME_PLAY": "Játék",
+	"HOME_LEVEL": "Szint {{n}}",
 	"GARDEN_NEXT": "Következő dísz: {{name}} még {{points}} pont",
 	"GARDEN_EMPTY": "A kerted üres. Nyerd meg egy szintet, és kivirágzik itt az első virág.",
 	"GARDEN_DECOR_path": "Kerti ösvény",

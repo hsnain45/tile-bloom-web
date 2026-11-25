@@ -365,6 +365,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Dagens blomst startet.",
 	"GARDEN": "Have",
 	"GARDEN_POINTS": "Blomsterpoint",
+	"HOME_PLAY": "Spil",
+	"HOME_LEVEL": "Niveau {{n}}",
 	"GARDEN_NEXT": "Næste pynt: {{name}} om {{points}} point mere",
 	"GARDEN_EMPTY": "Din have er tom. Vind et niveau, så blomstrer den første blomst her.",
 	"GARDEN_DECOR_path": "Havesti",

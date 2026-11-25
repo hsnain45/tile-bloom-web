@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "నేటి పువ్వు ప్రారంభమైంది.",
 	"GARDEN": "తోట",
 	"GARDEN_POINTS": "పువ్వు పాయింట్లు",
+	"HOME_PLAY": "ఆడండి",
+	"HOME_LEVEL": "స్థాయి {{n}}",
 	"GARDEN_NEXT": "తదుపరి అలంకరణ: {{name}}, మరో {{points}} పాయింట్లలో",
 	"GARDEN_EMPTY": "మీ తోట ఖాళీగా ఉంది. ఒక స్థాయిని గెలిస్తే మొదటి పువ్వు ఇక్కడ వికసిస్తుంది.",
 	"GARDEN_DECOR_path": "తోట మార్గం",

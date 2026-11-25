@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "আজকের ফুল শুরু হয়েছে।",
 	"GARDEN": "বাগান",
 	"GARDEN_POINTS": "ফুলের পয়েন্ট",
+	"HOME_PLAY": "খেলুন",
+	"HOME_LEVEL": "লেভেল {{n}}",
 	"GARDEN_NEXT": "পরের সাজসজ্জা: {{name}}, আরও {{points}} পয়েন্টে",
 	"GARDEN_EMPTY": "তোমার বাগান খালি। একটি স্তর জিতলেই প্রথম ফুলটি এখানে ফুটবে।",
 	"GARDEN_DECOR_path": "বাগানের পথ",

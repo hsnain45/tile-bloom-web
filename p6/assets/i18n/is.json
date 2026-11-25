@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Blóm dagsins byrjað.",
 	"GARDEN": "Garður",
 	"GARDEN_POINTS": "Blómastig",
+	"HOME_PLAY": "Spila",
+	"HOME_LEVEL": "Stig {{n}}",
 	"GARDEN_NEXT": "Næsta skraut: {{name}} eftir {{points}} stig í viðbót",
 	"GARDEN_EMPTY": "Garðurinn þinn er tómur. Vinndu borð og fyrsta blómið mun blómstra hér.",
 	"GARDEN_DECOR_path": "Garðstígur",

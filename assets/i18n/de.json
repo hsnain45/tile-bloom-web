@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Blume des Tages gestartet.",
 	"GARDEN": "Garten",
 	"GARDEN_POINTS": "Blumenpunkte",
+	"HOME_PLAY": "Spielen",
+	"HOME_LEVEL": "Level {{n}}",
 	"GARDEN_NEXT": "Nächste Dekoration: {{name}} in {{points}} weiteren Punkten",
 	"GARDEN_EMPTY": "Dein Garten ist leer. Gewinne ein Level, und hier blüht die erste Blume.",
 	"GARDEN_DECOR_path": "Gartenweg",

@@ -368,6 +368,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Květina dne zahájena.",
 	"GARDEN": "Zahrada",
 	"GARDEN_POINTS": "Body květin",
+	"HOME_PLAY": "Hrát",
+	"HOME_LEVEL": "Úroveň {{n}}",
 	"GARDEN_NEXT": "Další dekorace: {{name}} za {{points}} bodů",
 	"GARDEN_EMPTY": "Vaše zahrada je prázdná. Vyhrajte úroveň a vykvete tu první květina.",
 	"GARDEN_DECOR_path": "Zahradní cesta",

@@ -368,6 +368,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Kwiat dnia rozpoczęty.",
 	"GARDEN": "Ogród",
 	"GARDEN_POINTS": "Punkty kwiatów",
+	"HOME_PLAY": "Graj",
+	"HOME_LEVEL": "Poziom {{n}}",
 	"GARDEN_NEXT": "Następna dekoracja: {{name}} za {{points}} punktów",
 	"GARDEN_EMPTY": "Twój ogród jest pusty. Wygraj poziom, a zakwitnie tu pierwszy kwiat.",
 	"GARDEN_DECOR_path": "Ścieżka ogrodowa",

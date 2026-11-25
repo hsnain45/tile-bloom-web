@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Thosaigh Bláth an Lae.",
 	"GARDEN": "Gairdín",
 	"GARDEN_POINTS": "Pointí bláthanna",
+	"HOME_PLAY": "Imir",
+	"HOME_LEVEL": "Leibhéal {{n}}",
 	"GARDEN_NEXT": "An chéad mhaisiú eile: {{name}} i {{points}} pointe eile",
 	"GARDEN_EMPTY": "Tá do ghairdín folamh. Buail leibhéal agus bláthfaidh an chéad bhláth anseo.",
 	"GARDEN_DECOR_path": "Cosán gairdín",

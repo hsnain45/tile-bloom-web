@@ -370,6 +370,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "بدأت زهرة اليوم.",
 	"GARDEN": "الحديقة",
 	"GARDEN_POINTS": "نقاط الزهور",
+	"HOME_PLAY": "العب",
+	"HOME_LEVEL": "المستوى {{n}}",
 	"GARDEN_NEXT": "الزخرفة التالية: {{name}} بعد {{points}} نقطة أخرى",
 	"GARDEN_EMPTY": "حديقتك فارغة. اربح مستوى وستزهر هنا أول زهرة.",
 	"GARDEN_DECOR_path": "ممر الحديقة",

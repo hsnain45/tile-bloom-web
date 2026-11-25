@@ -364,6 +364,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "گل امروز شروع شد.",
 	"GARDEN": "باغ",
 	"GARDEN_POINTS": "امتیاز گل",
+	"HOME_PLAY": "بازی",
+	"HOME_LEVEL": "مرحله {{n}}",
 	"GARDEN_NEXT": "تزئین بعدی: {{name}} با {{points}} امتیاز دیگر",
 	"GARDEN_EMPTY": "باغ شما خالی است. یک مرحله را ببرید تا اولین گل اینجا بشکفد.",
 	"GARDEN_DECOR_path": "مسیر باغ",

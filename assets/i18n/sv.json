@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Dagens blomma startad.",
 	"GARDEN": "Trädgård",
 	"GARDEN_POINTS": "Blompoäng",
+	"HOME_PLAY": "Spela",
+	"HOME_LEVEL": "Nivå {{n}}",
 	"GARDEN_NEXT": "Nästa dekoration: {{name}} om {{points}} poäng till",
 	"GARDEN_EMPTY": "Din trädgård är tom. Vinn en nivå så blommar den första blomman här.",
 	"GARDEN_DECOR_path": "Trädgårdsgång",

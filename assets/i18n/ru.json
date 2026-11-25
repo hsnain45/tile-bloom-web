@@ -368,6 +368,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Цветок дня начался.",
 	"GARDEN": "Сад",
 	"GARDEN_POINTS": "Цветочные очки",
+	"HOME_PLAY": "Играть",
+	"HOME_LEVEL": "Уровень {{n}}",
 	"GARDEN_NEXT": "Следующее украшение: {{name}} ещё через {{points}} очков",
 	"GARDEN_EMPTY": "Ваш сад пуст. Выиграйте уровень, и здесь расцветёт первый цветок.",
 	"GARDEN_DECOR_path": "Садовая дорожка",

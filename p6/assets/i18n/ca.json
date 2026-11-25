@@ -366,6 +366,8 @@
 	"ANNOUNCE_FLOWER_STARTED": "Flor del dia començada.",
 	"GARDEN": "Jardí",
 	"GARDEN_POINTS": "Punts de flor",
+	"HOME_PLAY": "Juga",
+	"HOME_LEVEL": "Nivell {{n}}",
 	"GARDEN_NEXT": "Següent decoració: {{name}} d'aquí a {{points}} punts",
 	"GARDEN_EMPTY": "El teu jardí és buit. Guanya un nivell i la primera flor florirà aquí.",
 	"GARDEN_DECOR_path": "Camí del jardí",
